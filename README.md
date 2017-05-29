@@ -14,7 +14,7 @@ Accelometer data for over 500 variables was collected from 30 subjects wearing S
 5. Subject Test & Subject Train (designates the subject with a numerical label from 1 - 30 for each observation)
 
 ## Method
-The script 'run_analysis.R' applys the following steps:
+The script 'run_analysis.R' applies the following steps:
 
 1. Loads the appropriate libraries into R
 2. Reads the .txt files into data tables
